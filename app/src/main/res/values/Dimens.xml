@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="padding_parent">20dp</dimen>
+    <dimen name="margin_around">30dp</dimen>
+    <dimen name="margin_vertical">10dp</dimen>
+</resources>
