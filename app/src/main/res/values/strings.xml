@@ -10,4 +10,5 @@
     <string name="title_registration">Registration</string>
     <string name="action_save_password">Save Password</string>
     <string name="title_new_password">Create New Password</string>
+    <string name="msg_greetings">Welcome</string>
 </resources>
